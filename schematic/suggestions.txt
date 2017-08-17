@@ -1,0 +1,2 @@
+Future suggestions:
+1. Raise the solar input voltage by using a optocoupler, isolated PSU and switch the FETs directly using the uC.
